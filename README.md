@@ -1,5 +1,5 @@
 # 3D-Donut-Math
-Making a 3D rotatng donut using &lt;C> language 
+Make a 3D rotatng donut using &lt;C> language 
 
 ```c
 //Donut Math
